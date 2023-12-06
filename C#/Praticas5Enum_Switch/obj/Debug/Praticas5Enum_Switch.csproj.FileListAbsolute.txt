@@ -1,0 +1,7 @@
+D:\DEV\C#\Praticas5Enum_Switch\bin\Debug\Praticas5Enum_Switch.exe.config
+D:\DEV\C#\Praticas5Enum_Switch\bin\Debug\Praticas5Enum_Switch.exe
+D:\DEV\C#\Praticas5Enum_Switch\bin\Debug\Praticas5Enum_Switch.pdb
+D:\DEV\C#\Praticas5Enum_Switch\obj\Debug\Praticas5Enum_Switch.csproj.AssemblyReference.cache
+D:\DEV\C#\Praticas5Enum_Switch\obj\Debug\Praticas5Enum_Switch.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Praticas5Enum_Switch\obj\Debug\Praticas5Enum_Switch.exe
+D:\DEV\C#\Praticas5Enum_Switch\obj\Debug\Praticas5Enum_Switch.pdb

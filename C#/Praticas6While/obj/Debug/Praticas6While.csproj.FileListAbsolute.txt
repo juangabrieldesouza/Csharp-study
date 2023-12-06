@@ -1,0 +1,7 @@
+D:\DEV\C#\Praticas6While\bin\Debug\Praticas6While.exe.config
+D:\DEV\C#\Praticas6While\bin\Debug\Praticas6While.exe
+D:\DEV\C#\Praticas6While\bin\Debug\Praticas6While.pdb
+D:\DEV\C#\Praticas6While\obj\Debug\Praticas6While.csproj.AssemblyReference.cache
+D:\DEV\C#\Praticas6While\obj\Debug\Praticas6While.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Praticas6While\obj\Debug\Praticas6While.exe
+D:\DEV\C#\Praticas6While\obj\Debug\Praticas6While.pdb

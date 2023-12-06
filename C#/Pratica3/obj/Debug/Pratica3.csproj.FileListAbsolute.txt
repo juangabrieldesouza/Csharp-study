@@ -1,0 +1,7 @@
+D:\DEV\C#\Pratica3\bin\Debug\Pratica3.exe.config
+D:\DEV\C#\Pratica3\bin\Debug\Pratica3.exe
+D:\DEV\C#\Pratica3\bin\Debug\Pratica3.pdb
+D:\DEV\C#\Pratica3\obj\Debug\Pratica3.csproj.AssemblyReference.cache
+D:\DEV\C#\Pratica3\obj\Debug\Pratica3.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Pratica3\obj\Debug\Pratica3.exe
+D:\DEV\C#\Pratica3\obj\Debug\Pratica3.pdb

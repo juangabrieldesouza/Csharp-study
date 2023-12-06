@@ -1,0 +1,7 @@
+D:\DEV\C#\Pratica4\bin\Debug\Pratica4.exe.config
+D:\DEV\C#\Pratica4\bin\Debug\Pratica4.exe
+D:\DEV\C#\Pratica4\bin\Debug\Pratica4.pdb
+D:\DEV\C#\Pratica4\obj\Debug\Pratica4.csproj.AssemblyReference.cache
+D:\DEV\C#\Pratica4\obj\Debug\Pratica4.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Pratica4\obj\Debug\Pratica4.exe
+D:\DEV\C#\Pratica4\obj\Debug\Pratica4.pdb
