@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe.config
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\bin\Debug\OperadoresAritmeticos.pdb
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula02\aula02\OperadoresAritmeticos\obj\Debug\OperadoresAritmeticos.pdb

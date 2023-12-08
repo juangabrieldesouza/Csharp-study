@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\bin\Debug\aula01.exe.config
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\bin\Debug\aula01.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\bin\Debug\aula01.pdb
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\obj\Debug\aula01.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\obj\Debug\aula01.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\obj\Debug\aula01.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula01\logicaula01\aula01\obj\Debug\aula01.pdb

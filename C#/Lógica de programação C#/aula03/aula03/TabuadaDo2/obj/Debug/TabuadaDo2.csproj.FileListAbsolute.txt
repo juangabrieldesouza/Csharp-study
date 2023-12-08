@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe.config
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\bin\Debug\TabuadaDo2.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\bin\Debug\TabuadaDo2.pdb
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\obj\Debug\TabuadaDo2.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\obj\Debug\TabuadaDo2.exe
+D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\aula03\TabuadaDo2\obj\Debug\TabuadaDo2.pdb
