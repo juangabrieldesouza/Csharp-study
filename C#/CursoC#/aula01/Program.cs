@@ -1,11 +1,13 @@
 ﻿using System;
 
+namespace Aula01
+{
+    class Program
+    {
 
-class Program{
-
-    static void Main(){
-        Console.Write("Ola Bruaziul!");
+        static void Main (string[] args)
+        {
+            Console.Write("Ola Bruaziul!");
+        }
     }
 }
-
-

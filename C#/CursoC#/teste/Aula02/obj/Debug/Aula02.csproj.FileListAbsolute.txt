@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\bin\Debug\Aula02.exe.config
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\bin\Debug\Aula02.exe
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\bin\Debug\Aula02.pdb
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\obj\Debug\Aula02.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\obj\Debug\Aula02.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\obj\Debug\Aula02.exe
+D:\DEV\MyStudies\C#\CursoC#\teste\Aula02\obj\Debug\Aula02.pdb
