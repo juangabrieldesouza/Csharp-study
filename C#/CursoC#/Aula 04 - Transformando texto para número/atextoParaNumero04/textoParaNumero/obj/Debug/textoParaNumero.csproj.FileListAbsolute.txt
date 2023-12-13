@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\bin\Debug\textoParaNumero.exe.config
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\bin\Debug\textoParaNumero.exe
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\bin\Debug\textoParaNumero.pdb
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\obj\Debug\textoParaNumero.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\obj\Debug\textoParaNumero.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\obj\Debug\textoParaNumero.exe
+D:\DEV\MyStudies\C#\CursoC#\aula04\textoParaNumero\obj\Debug\textoParaNumero.pdb

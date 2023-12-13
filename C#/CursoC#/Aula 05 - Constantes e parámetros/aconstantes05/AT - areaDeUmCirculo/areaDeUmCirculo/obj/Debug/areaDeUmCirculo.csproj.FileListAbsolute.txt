@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\bin\Debug\areaDeUmCirculo.exe.config
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\bin\Debug\areaDeUmCirculo.exe
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\bin\Debug\areaDeUmCirculo.pdb
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\obj\Debug\areaDeUmCirculo.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\obj\Debug\areaDeUmCirculo.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\obj\Debug\areaDeUmCirculo.exe
+D:\DEV\MyStudies\C#\CursoC#\aula05\AT - areaDeUmCirculo\areaDeUmCirculo\obj\Debug\areaDeUmCirculo.pdb

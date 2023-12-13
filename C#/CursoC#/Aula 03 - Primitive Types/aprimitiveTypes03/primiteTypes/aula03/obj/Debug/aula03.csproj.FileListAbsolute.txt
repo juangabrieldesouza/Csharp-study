@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\bin\Debug\aula03.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\bin\Debug\aula03.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\bin\Debug\aula03.pdb
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\obj\Debug\aula03.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\obj\Debug\aula03.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\obj\Debug\aula03.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula03\primiteTypes\aula03\obj\Debug\aula03.pdb
