@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\bin\Debug\@while.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\bin\Debug\@while.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\bin\Debug\@while.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\obj\Debug\while.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\obj\Debug\while.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\obj\Debug\@while.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\while\while\obj\Debug\@while.pdb

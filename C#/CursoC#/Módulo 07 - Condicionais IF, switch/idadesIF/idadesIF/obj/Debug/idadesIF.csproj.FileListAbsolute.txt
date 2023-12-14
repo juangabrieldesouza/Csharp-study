@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\bin\Debug\idadesIF.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\bin\Debug\idadesIF.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\bin\Debug\idadesIF.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\obj\Debug\idadesIF.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\obj\Debug\idadesIF.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\obj\Debug\idadesIF.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\idadesIF\idadesIF\obj\Debug\idadesIF.pdb

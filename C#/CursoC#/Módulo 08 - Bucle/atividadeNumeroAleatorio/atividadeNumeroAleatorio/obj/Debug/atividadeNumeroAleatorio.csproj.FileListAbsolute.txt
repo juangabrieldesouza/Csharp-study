@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\bin\Debug\atividadeNumeroAleatorio.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\bin\Debug\atividadeNumeroAleatorio.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\bin\Debug\atividadeNumeroAleatorio.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\obj\Debug\atividadeNumeroAleatorio.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\obj\Debug\atividadeNumeroAleatorio.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\obj\Debug\atividadeNumeroAleatorio.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Bucle\atividadeNumeroAleatorio\atividadeNumeroAleatorio\obj\Debug\atividadeNumeroAleatorio.pdb

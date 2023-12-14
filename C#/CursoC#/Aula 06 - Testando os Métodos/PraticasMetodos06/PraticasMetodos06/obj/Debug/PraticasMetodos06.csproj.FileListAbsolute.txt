@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\bin\Debug\PraticasMetodos06.exe.config
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\bin\Debug\PraticasMetodos06.exe
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\bin\Debug\PraticasMetodos06.pdb
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\obj\Debug\PraticasMetodos06.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\obj\Debug\PraticasMetodos06.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\obj\Debug\PraticasMetodos06.exe
+D:\DEV\MyStudies\C#\CursoC#\PraticasMetodos06\PraticasMetodos06\obj\Debug\PraticasMetodos06.pdb

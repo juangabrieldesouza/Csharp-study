@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\bin\Debug\atividade02Return.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\bin\Debug\atividade02Return.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\bin\Debug\atividade02Return.pdb
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\obj\Debug\atividade02Return.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\obj\Debug\atividade02Return.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\obj\Debug\atividade02Return.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade02Return\atividade02Return\obj\Debug\atividade02Return.pdb

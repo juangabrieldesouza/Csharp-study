@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\bin\Debug\estruturasCondicionaisIF.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\bin\Debug\estruturasCondicionaisIF.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\bin\Debug\estruturasCondicionaisIF.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\obj\Debug\estruturasCondicionaisIF.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\obj\Debug\estruturasCondicionaisIF.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\obj\Debug\estruturasCondicionaisIF.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 07 - Condicionais IF\estruturasCondicionaisIF\estruturasCondicionaisIF\obj\Debug\estruturasCondicionaisIF.pdb

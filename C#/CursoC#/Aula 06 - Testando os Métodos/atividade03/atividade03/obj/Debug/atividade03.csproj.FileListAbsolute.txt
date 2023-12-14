@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\bin\Debug\atividade03.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\bin\Debug\atividade03.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\bin\Debug\atividade03.pdb
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\obj\Debug\atividade03.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\obj\Debug\atividade03.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\obj\Debug\atividade03.exe
+D:\DEV\MyStudies\C#\CursoC#\Aula 06 - Testando os Métodos\atividade03\atividade03\obj\Debug\atividade03.pdb

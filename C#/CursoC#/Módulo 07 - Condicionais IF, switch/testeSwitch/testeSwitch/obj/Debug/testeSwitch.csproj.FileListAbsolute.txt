@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\bin\Debug\testeSwitch.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\bin\Debug\testeSwitch.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\bin\Debug\testeSwitch.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\obj\Debug\testeSwitch.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\obj\Debug\testeSwitch.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\obj\Debug\testeSwitch.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 08 - Switch\testeSwitch\testeSwitch\obj\Debug\testeSwitch.pdb
