@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\bin\Debug\lancamentoDeExceptions.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\bin\Debug\lancamentoDeExceptions.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\bin\Debug\lancamentoDeExceptions.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\obj\Debug\lancamentoDeExceptions.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\obj\Debug\lancamentoDeExceptions.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\obj\Debug\lancamentoDeExceptions.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\lancamentoDeExceptions\lancamentoDeExceptions\obj\Debug\lancamentoDeExceptions.pdb

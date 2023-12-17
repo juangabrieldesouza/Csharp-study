@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\bin\Debug\exceptionGeral.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\bin\Debug\exceptionGeral.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\bin\Debug\exceptionGeral.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\obj\Debug\exceptionGeral.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\obj\Debug\exceptionGeral.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\obj\Debug\exceptionGeral.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\exceptionGeral\exceptionGeral\obj\Debug\exceptionGeral.pdb

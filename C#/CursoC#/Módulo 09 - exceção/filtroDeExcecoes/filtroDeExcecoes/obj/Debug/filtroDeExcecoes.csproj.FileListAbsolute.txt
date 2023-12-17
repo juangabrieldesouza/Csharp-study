@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\bin\Debug\filtroDeExcecoes.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\bin\Debug\filtroDeExcecoes.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\bin\Debug\filtroDeExcecoes.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\obj\Debug\filtroDeExcecoes.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\obj\Debug\filtroDeExcecoes.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\obj\Debug\filtroDeExcecoes.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\filtroDeExcecoes\filtroDeExcecoes\obj\Debug\filtroDeExcecoes.pdb

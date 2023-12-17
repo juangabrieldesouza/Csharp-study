@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\bin\Debug\tryCatch.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\bin\Debug\tryCatch.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\bin\Debug\tryCatch.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\tryCatch\tryCatch\obj\Debug\tryCatch.pdb

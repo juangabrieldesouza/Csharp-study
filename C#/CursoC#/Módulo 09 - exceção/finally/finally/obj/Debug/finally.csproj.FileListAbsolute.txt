@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\bin\Debug\@finally.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\bin\Debug\@finally.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\bin\Debug\@finally.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\obj\Debug\finally.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\obj\Debug\finally.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\obj\Debug\@finally.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\finally\finally\obj\Debug\@finally.pdb

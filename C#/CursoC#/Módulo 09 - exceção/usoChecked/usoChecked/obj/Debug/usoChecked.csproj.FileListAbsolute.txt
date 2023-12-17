@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\bin\Debug\usoChecked.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\bin\Debug\usoChecked.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\bin\Debug\usoChecked.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\obj\Debug\usoChecked.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\obj\Debug\usoChecked.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\obj\Debug\usoChecked.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\usoChecked\usoChecked\obj\Debug\usoChecked.pdb

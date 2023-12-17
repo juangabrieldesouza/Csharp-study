@@ -13,29 +13,46 @@ namespace doWhile
             Random numero = new Random();
 
             int numeroAleatorio = numero.Next(0, 100);
-            int contador = 2;
-            int numeroconta;
+            int contador = 1;
+            int numeroconta=-1;
 
-            Console.WriteLine("advinhe o número de 0 a 100");
-            numeroconta = Int32.Parse(Console.ReadLine());
+            try
+            {
+                Console.WriteLine("advinhe o número de 0 a 100");
+                numeroconta = Int32.Parse(Console.ReadLine());
+            }
+            catch
+            {
+                Console.WriteLine("Número inserido inválido");
+            }
 
-            while (numeroconta != numeroAleatorio)
+            do
             {
 
                 if (numeroconta < numeroAleatorio) Console.WriteLine("O número oculto é maior, tente denovo!");
 
                 else if (numeroconta > numeroAleatorio) Console.WriteLine("O número o culto é menor tente denovo!");
+                try
+                {
+                    Console.WriteLine("Tente de novo: ");
 
-                Console.WriteLine("Tente de novo: ");
-
-                numeroconta = Int32.Parse(Console.ReadLine());
-
-                if (numeroconta == numeroAleatorio) { Console.WriteLine("Acertou!"); }
+                    numeroconta = Int32.Parse(Console.ReadLine());
+                }
+                catch
+                {
+                    Console.WriteLine("Número inserido inválido!");
+                }
 
                 contador++;
-            }
 
-            Console.ReadLine();
+                if (numeroconta == numeroAleatorio) { Console.WriteLine("Acertou!"); Console.WriteLine($"Número de tentativas: {contador}"); }
+
+            } while (numeroconta != numeroAleatorio);
+
+
+            Console.WriteLine("Fim del programa!");
+
+
         }
     }
 }
