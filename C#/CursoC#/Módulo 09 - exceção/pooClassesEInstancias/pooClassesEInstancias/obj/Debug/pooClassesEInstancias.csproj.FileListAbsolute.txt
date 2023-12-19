@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\bin\Debug\pooClassesEInstancias.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\bin\Debug\pooClassesEInstancias.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\bin\Debug\pooClassesEInstancias.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\obj\Debug\pooClassesEInstancias.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\obj\Debug\pooClassesEInstancias.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\obj\Debug\pooClassesEInstancias.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\pooClassesEInstancias\pooClassesEInstancias\obj\Debug\pooClassesEInstancias.pdb
