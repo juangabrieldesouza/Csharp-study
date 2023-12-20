@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\obj\Debug\GetSet.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\obj\Debug\GetSet.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\bin\Debug\GetSet.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\bin\Debug\GetSet.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\bin\Debug\GetSet.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\obj\Debug\GetSet.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\GetSet\GetSet\obj\Debug\GetSet.pdb

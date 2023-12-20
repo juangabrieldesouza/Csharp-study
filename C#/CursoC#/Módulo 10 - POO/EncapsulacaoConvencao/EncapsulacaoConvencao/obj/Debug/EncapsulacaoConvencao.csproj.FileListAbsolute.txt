@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\bin\Debug\EncapsulacaoConvencao.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\bin\Debug\EncapsulacaoConvencao.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\bin\Debug\EncapsulacaoConvencao.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\obj\Debug\EncapsulacaoConvencao.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\obj\Debug\EncapsulacaoConvencao.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\obj\Debug\EncapsulacaoConvencao.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 09 - exceção\EncapsulacaoConvencao\EncapsulacaoConvencao\obj\Debug\EncapsulacaoConvencao.pdb

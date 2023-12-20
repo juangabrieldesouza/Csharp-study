@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\bin\Debug\conceitosPoo.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\bin\Debug\conceitosPoo.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\bin\Debug\conceitosPoo.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\obj\Debug\conceitosPoo.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\obj\Debug\conceitosPoo.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\obj\Debug\conceitosPoo.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\conceitosPoo\conceitosPoo\obj\Debug\conceitosPoo.pdb

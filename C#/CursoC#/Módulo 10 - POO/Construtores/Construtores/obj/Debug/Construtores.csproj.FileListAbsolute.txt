@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\bin\Debug\Construtores.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\bin\Debug\Construtores.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\bin\Debug\Construtores.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\obj\Debug\Construtores.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\obj\Debug\Construtores.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\obj\Debug\Construtores.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 10 - POO\Construtores\Construtores\obj\Debug\Construtores.pdb
