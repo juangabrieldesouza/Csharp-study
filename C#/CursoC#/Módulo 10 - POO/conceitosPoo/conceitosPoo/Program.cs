@@ -25,6 +25,8 @@ namespace conceitosPoo
             double distancia = origem.DistanciaPontos(destino);
 
             Console.WriteLine($"A distancia entre os pontos é: {distancia}");
+
+            Console.WriteLine($"Número de objetos criados: {Ponto.ContadorDeObjetos()}");
         }
 
         

@@ -13,14 +13,14 @@ namespace conceitosPoo
 
             this.x = x;
             this.y = y;
-
+            contadorDeObjetos++;
         }
 
         public Ponto()
         {
             this.x = 0;
             this.y = 0;
-
+            contadorDeObjetos++;
         }
 
         public double DistanciaPontos(Ponto definicao)
@@ -34,7 +34,9 @@ namespace conceitosPoo
             return distanciaPontos;
         }
 
-        private int x,y; 
+        public static int ContadorDeObjetos()=> contadorDeObjetos;
 
+        private int x,y;
+        private static int contadorDeObjetos = 0;
     }
 }
