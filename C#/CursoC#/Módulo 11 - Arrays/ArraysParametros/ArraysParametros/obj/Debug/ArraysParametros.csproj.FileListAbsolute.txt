@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\bin\Debug\ArraysParametros.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\bin\Debug\ArraysParametros.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\bin\Debug\ArraysParametros.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\obj\Debug\ArraysParametros.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\obj\Debug\ArraysParametros.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\obj\Debug\ArraysParametros.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\ArraysParametros\ArraysParametros\obj\Debug\ArraysParametros.pdb

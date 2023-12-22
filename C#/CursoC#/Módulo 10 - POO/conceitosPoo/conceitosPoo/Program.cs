@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace conceitosPoo
 {
@@ -11,8 +8,13 @@ namespace conceitosPoo
         static void Main(string[] args)
         {
 
-            executarTarefa();
-                    
+            //executarTarefa();
+            var barcelona = new { jogador1 = "ronaldinho", jogador2 = "Kaca", idade1 = 26, idade2 = 31 };
+
+            Console.WriteLine(barcelona.jogador1 + " " + barcelona.idade1);
+
+            Console.WriteLine(barcelona.jogador2 +" " +barcelona.idade2);
+
         }
 
         static void executarTarefa()

@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\bin\Debug\UsandoArrays.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\bin\Debug\UsandoArrays.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\bin\Debug\UsandoArrays.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\obj\Debug\UsandoArrays.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\obj\Debug\UsandoArrays.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\obj\Debug\UsandoArrays.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 11 - Arrays\UsandoArrays\UsandoArrays\obj\Debug\UsandoArrays.pdb
