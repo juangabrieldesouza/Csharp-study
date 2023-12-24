@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\bin\Debug\projetoHeranca.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\bin\Debug\projetoHeranca.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\bin\Debug\projetoHeranca.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\obj\Debug\projetoHeranca.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\obj\Debug\projetoHeranca.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\obj\Debug\projetoHeranca.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\projetoHeranca\projetoHeranca\obj\Debug\projetoHeranca.pdb
