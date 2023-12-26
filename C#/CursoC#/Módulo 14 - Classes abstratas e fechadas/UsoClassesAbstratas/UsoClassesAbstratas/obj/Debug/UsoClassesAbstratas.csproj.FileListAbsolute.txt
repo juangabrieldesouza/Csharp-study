@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\bin\Debug\UsoClassesAbstratas.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\bin\Debug\UsoClassesAbstratas.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\bin\Debug\UsoClassesAbstratas.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\obj\Debug\UsoClassesAbstratas.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\obj\Debug\UsoClassesAbstratas.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\obj\Debug\UsoClassesAbstratas.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 14 - Classes abstratas e fechadas\UsoClassesAbstratas\UsoClassesAbstratas\obj\Debug\UsoClassesAbstratas.pdb
