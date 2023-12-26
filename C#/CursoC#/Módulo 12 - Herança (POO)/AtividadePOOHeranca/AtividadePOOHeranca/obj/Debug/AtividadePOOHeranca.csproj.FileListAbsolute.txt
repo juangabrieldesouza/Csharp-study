@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\bin\Debug\AtividadePOOHeranca.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\bin\Debug\AtividadePOOHeranca.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\bin\Debug\AtividadePOOHeranca.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\obj\Debug\AtividadePOOHeranca.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\obj\Debug\AtividadePOOHeranca.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\obj\Debug\AtividadePOOHeranca.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 12 - Herança (POO)\AtividadePOOHeranca\AtividadePOOHeranca\obj\Debug\AtividadePOOHeranca.pdb

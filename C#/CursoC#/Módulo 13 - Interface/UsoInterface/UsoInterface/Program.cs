@@ -17,23 +17,27 @@ namespace projetoHeranca
 
             Humano humano = new Humano("Juan");
 
-
-            Mamiferos animal = new Gorila("gogoda");
+            Mamiferos Animal = new Gorila("gogoda");
 
             Mamiferos[] armazen = new Mamiferos[3];
             armazen[0] = gorila;
             armazen[1] = cavalo;
             armazen[2] = humano;
 
-            for(int i = 0;i < 3; i++)
+            for (int i = 0; i < 3; i++)
             {
                 armazen[i].Andar();
 
             }
 
-            
+
 
         }
+    }
+
+    interface IMamiferosTerrestres
+    {
+        int NumeroPatas();
     }
 
     class Mamiferos
@@ -50,7 +54,7 @@ namespace projetoHeranca
             Console.WriteLine("Estou respirando!");
         }
 
-        public void getNome()
+        public void GetNome()
         {
 
             Console.WriteLine($"O nome do ser vivo é: {NomeSerVivo}");
@@ -61,11 +65,14 @@ namespace projetoHeranca
             Console.WriteLine("eu ando");
         }
 
-        private string NomeSerVivo;      
-               
+        private string NomeSerVivo;
+
     }
 
-    class Cavalo : Mamiferos
+ 
+   
+
+    class Cavalo : Mamiferos, IMamiferosTerrestres
     {
 
         public Cavalo(string nomeCavalo) : base(nomeCavalo)
@@ -80,12 +87,17 @@ namespace projetoHeranca
 
         }
 
+        public int NumeroPatas()
+        {
+            return 4;
+        }
+
     }
 
     class Humano : Mamiferos
     {
 
-        public Humano(string nomeHumano): base(nomeHumano)
+        public Humano(string nomeHumano) : base(nomeHumano)
         {
 
 
@@ -96,9 +108,11 @@ namespace projetoHeranca
 
             Console.WriteLine("Eu ando em duas pernas");
         }
+
+        
     }
-    
-    class Gorila : Mamiferos
+
+    class Gorila : Mamiferos, IMamiferosTerrestres
     {
 
         public Gorila(string nomeGorila) : base(nomeGorila)
@@ -108,10 +122,31 @@ namespace projetoHeranca
         }
 
 
-        public void agarrar()
+        public void Agarrar()
         {
 
             Console.WriteLine("Sou capaz de escalar arvores");
         }
+
+        public int NumeroPatas()
+        {
+            return 2;
+        }
+    }
+    
+   class Baleia : Mamiferos
+    {
+        public Baleia(string nomeBaleia) : base(nomeBaleia)
+        {
+
+
+        }
+
+        public void Nadar()
+        {
+
+            Console.WriteLine("Estou nadando");
+        }
+
     }
 }
