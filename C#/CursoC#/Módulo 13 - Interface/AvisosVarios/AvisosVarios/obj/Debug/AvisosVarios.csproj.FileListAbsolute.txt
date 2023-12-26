@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\bin\Debug\AvisosVarios.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\AvisosVarios\AvisosVarios\obj\Debug\AvisosVarios.pdb

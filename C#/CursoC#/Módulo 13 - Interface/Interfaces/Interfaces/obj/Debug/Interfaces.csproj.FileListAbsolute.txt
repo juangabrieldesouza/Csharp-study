@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 13 - Interface\Interfaces\Interfaces\obj\Debug\Interfaces.pdb
