@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\bin\Debug\usoStruct.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\bin\Debug\usoStruct.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\bin\Debug\usoStruct.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\obj\Debug\usoStruct.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\obj\Debug\usoStruct.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\obj\Debug\usoStruct.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\usoStruct\usoStruct\obj\Debug\usoStruct.pdb

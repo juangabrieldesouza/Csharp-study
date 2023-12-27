@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\bin\Debug\UsoProperties.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\bin\Debug\UsoProperties.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\bin\Debug\UsoProperties.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\obj\Debug\UsoProperties.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\obj\Debug\UsoProperties.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\obj\Debug\UsoProperties.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoProperties\UsoProperties\obj\Debug\UsoProperties.pdb
