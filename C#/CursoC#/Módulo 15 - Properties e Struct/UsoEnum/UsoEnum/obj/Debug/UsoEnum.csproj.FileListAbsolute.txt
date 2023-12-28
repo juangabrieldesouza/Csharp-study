@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\bin\Debug\UsoEnum.exe.config
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\bin\Debug\UsoEnum.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\bin\Debug\UsoEnum.pdb
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\obj\Debug\UsoEnum.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\obj\Debug\UsoEnum.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\obj\Debug\UsoEnum.exe
+D:\DEV\MyStudies\C#\CursoC#\Módulo 15 - Properties e Struct\UsoEnum\UsoEnum\obj\Debug\UsoEnum.pdb
