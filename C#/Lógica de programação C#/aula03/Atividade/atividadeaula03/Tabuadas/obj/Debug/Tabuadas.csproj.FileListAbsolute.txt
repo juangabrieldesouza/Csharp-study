@@ -1,7 +1,0 @@
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\bin\Debug\Tabuadas.exe.config
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\bin\Debug\Tabuadas.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\bin\Debug\Tabuadas.pdb
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\obj\Debug\Tabuadas.csproj.AssemblyReference.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\obj\Debug\Tabuadas.csproj.CoreCompileInputs.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\obj\Debug\Tabuadas.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula03\Atividade\atividadeaula03\Tabuadas\obj\Debug\Tabuadas.pdb

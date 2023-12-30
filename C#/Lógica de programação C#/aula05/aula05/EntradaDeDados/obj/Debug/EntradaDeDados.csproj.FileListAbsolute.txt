@@ -1,7 +1,0 @@
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\bin\Debug\EntradaDeDados.exe.config
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\bin\Debug\EntradaDeDados.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\bin\Debug\EntradaDeDados.pdb
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.AssemblyReference.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\obj\Debug\EntradaDeDados.csproj.CoreCompileInputs.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\obj\Debug\EntradaDeDados.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula05\aula05\EntradaDeDados\obj\Debug\EntradaDeDados.pdb

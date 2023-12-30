@@ -1,7 +1,0 @@
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\bin\Debug\Variaveis.exe.config
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\bin\Debug\Variaveis.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\bin\Debug\Variaveis.pdb
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\obj\Debug\Variaveis.csproj.AssemblyReference.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\obj\Debug\Variaveis.csproj.CoreCompileInputs.cache
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\obj\Debug\Variaveis.exe
-D:\DEV\MyStudies\C#\Lógica de programação C#\aula04\aula04\Variaveis\obj\Debug\Variaveis.pdb
