@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\bin\Debug\GenericRestrictions.exe.config
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\bin\Debug\GenericRestrictions.exe
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\bin\Debug\GenericRestrictions.pdb
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\obj\Debug\GenericRestrictions.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\obj\Debug\GenericRestrictions.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\obj\Debug\GenericRestrictions.exe
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\GenericRestrictions\GenericRestrictions\obj\Debug\GenericRestrictions.pdb

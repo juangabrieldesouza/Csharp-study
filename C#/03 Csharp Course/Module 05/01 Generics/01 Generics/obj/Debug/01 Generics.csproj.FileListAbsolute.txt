@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\bin\Debug\01 Generics.exe.config
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\bin\Debug\01 Generics.exe
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\bin\Debug\01 Generics.pdb
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\obj\Debug\01 Generics.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\obj\Debug\01 Generics.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\obj\Debug\01 Generics.exe
+D:\DEV\MyStudies\C#\03 Csharp Course\Module 05\01 Generics\01 Generics\obj\Debug\01 Generics.pdb
