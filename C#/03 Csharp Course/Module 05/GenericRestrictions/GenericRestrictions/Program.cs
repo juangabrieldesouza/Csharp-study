@@ -10,6 +10,14 @@ namespace GenericRestrictions
     {
         static void Main(string[] args)
         {
+
+            string Nome = "10";
+
+            int numero = int.Parse(Nome);
+
+            Console.WriteLine(numero);
+
+
         }
     }
 
