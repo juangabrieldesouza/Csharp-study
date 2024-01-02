@@ -18,6 +18,8 @@ namespace GenericRestrictions
             Console.WriteLine(numero);
 
 
+
+
         }
     }
 
