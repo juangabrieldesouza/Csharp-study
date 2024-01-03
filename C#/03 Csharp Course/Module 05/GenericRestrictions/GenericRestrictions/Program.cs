@@ -11,17 +11,48 @@ namespace GenericRestrictions
         static void Main(string[] args)
         {
 
-            string Nome = "10";
+           EmployeesWereHouse<Director> TypeDirectors = new EmployeesWereHouse<Director>(3);
 
-            int numero = int.Parse(Nome);
-
-            Console.WriteLine(numero);
-
+            TypeDirectors.adicionar(new Director(4000));
 
 
 
         }
     }
+
+
+    class EmployeesWereHouse<T> where T : IgetSalary
+    {
+
+        public EmployeesWereHouse(int z)
+        {
+
+            EmployeeData = new T[z];
+
+
+        }
+
+        public void adicionar(T obj)
+        {
+            EmployeeData[i] = obj;
+
+            i++;
+
+        }
+
+
+        public T getEmployees(int i)
+        {
+            return EmployeeData[i];
+        }
+
+
+        private int i = 0;
+
+        private T[] EmployeeData;
+
+    }
+
 
     class Director : IgetSalary
     {
@@ -66,6 +97,23 @@ namespace GenericRestrictions
         {
             return salary;
         }
+    }
+
+
+    class Student
+    {
+
+        public Student (double age)
+        {
+            this.age = age;
+        }
+
+        public double Getage()
+        {
+            return age;
+        }
+
+        private double age;
     }
 
 interface IgetSalary
