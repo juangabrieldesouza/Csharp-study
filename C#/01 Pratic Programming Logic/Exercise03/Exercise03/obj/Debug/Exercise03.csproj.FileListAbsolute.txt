@@ -1,0 +1,7 @@
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\bin\Debug\Exercise03.exe.config
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\bin\Debug\Exercise03.exe
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\bin\Debug\Exercise03.pdb
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.AssemblyReference.cache
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\obj\Debug\Exercise03.csproj.CoreCompileInputs.cache
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\obj\Debug\Exercise03.exe
+D:\DEV\MyStudies\C#\01 Pratic Programming Logic\Exercise03\Exercise03\obj\Debug\Exercise03.pdb
