@@ -13,7 +13,9 @@ namespace UsageList
 
             List<int> numeros = new List<int>(); // Declaração de collection do tipo List
 
+            numeros = new List<int>();
 
+            //Essa seria a ideia de list
         }
     }
 }
