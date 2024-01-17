@@ -27,9 +27,9 @@ namespace _01_Generics
             string NomeFuncionario = F1.GetElements(2);
             Console.WriteLine(NomeFuncionario);
 
-            Employees SalaryEmp = (Employees)F2.GetElements(2);
+            Employees SalaryEmp1 = (Employees)F2.GetElements(2);
 
-            Console.WriteLine(SalaryEmp.getSalary());
+            Console.WriteLine(SalaryEmp1.getSalary());
         }
     }
 
