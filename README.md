@@ -6,11 +6,7 @@
 ---
 ## RESUMO
 ---
-  Este arquivo foi dedicado na prática de exercicios de algoritmo no _portugol_, java no 
-  netbeans, kotlin, java web, javascript e python.
-  Aqui você vai encontrar alguns projetos também, mas o foco maior são os exercicios que tem como ponto 
-  aprimorar a memorização e facilidade de aprendizado e principalmente a melhor performace e compreensão dos
-  mais diversos conceitos
+  Este arquivo foi dedicado na prática de exercicios de algoritmo no _portugol_, C# e Java
 ---
 ### 1- ALGORITMOS
 ---
